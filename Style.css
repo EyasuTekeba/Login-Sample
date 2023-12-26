@@ -6,7 +6,7 @@ body {
     display: grid;
     place-items: center;
     background: #111;
-    font-size: 1.3em;
+    font-size: 1.31em;
 }
 h2, input,a {
     color: #fff;
